@@ -10,7 +10,7 @@ This is a sample app showing remote => true functionality is basic scaffold. Cre
        <tt>cd ajaxified_scaffold; bundle install; rake db:create; rake db:migrate; rails s</tt>
 
 3. Go to http://localhost:3000/ to see the app:
-       "Welcome aboard: You're riding Ruby on Rails!"
+   
 == See a live demo or blog post
 4. More information about this application can be found at:
 link:http://www.codebeerstartups.com/ajaxify-your-site-with-remote-true/
