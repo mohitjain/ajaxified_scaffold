@@ -1,0 +1,4 @@
+$('#edit_product_<%= @product.id %>').remove();
+$('#product_<%= @product.id %>').remove();
+$('#new_product_link').show();
+$('#products').append('<%= j render("product", :product => @product) %>');

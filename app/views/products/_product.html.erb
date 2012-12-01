@@ -1,0 +1,7 @@
+<tr id="product_<%= product.id %>">
+  <td><%= product.name %></td>
+  <td><%= product.price %></td>
+  <td><%= link_to 'Show', product %></td>
+  <td><%= link_to 'Edit', edit_product_path(product), :remote => true %></td>
+  <td><%= link_to 'Destroy', product, method: :delete, data: { confirm: 'Are you sure?' }, :remote => true %></td>
+</tr>
