@@ -1,7 +1,7 @@
 This is a sample app showing remote => true functionality is basic scaffold. Creating an object, edit, update and destroy is powered by remote => true.
 
 
-== How to run this application to see a live demo.
+== How to run this application
 
 1. At the command prompt, clone this app:
        <tt>git clone git@github.com:mohitjain/ajaxified_scaffold.git</tt>
@@ -11,7 +11,7 @@ This is a sample app showing remote => true functionality is basic scaffold. Cre
 
 3. Go to http://localhost:3000/ to see the app:
        "Welcome aboard: You're riding Ruby on Rails!"
-
+== See a live demo or blog post
 4. More information about this application can be found at:
 link:http://www.codebeerstartups.com/ajaxify-your-site-with-remote-true/
 5. Online Demo can be found at: 
