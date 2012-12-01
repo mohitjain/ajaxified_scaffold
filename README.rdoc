@@ -13,4 +13,5 @@ This is a sample app showing remote => true functionality is basic scaffold. Cre
        "Welcome aboard: You're riding Ruby on Rails!"
 
 4. More information about this application can be found at:
-link:http://www.rubycentral.org/pickaxe/irb.html
+link:http://www.codebeerstartups.com/ajaxify-your-site-with-remote-true/
+5. Online Demo can be found at: http://ajaxified-scaffold.herokuapp.com/
