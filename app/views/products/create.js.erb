@@ -1,3 +1,12 @@
+<% if @product.errors.count == 0 %>
+
 $('#new_product').remove();
 $('#new_product_link').show();
 $('#products').append('<%= j render("product", :product => @product) %>');
+
+<% else %>
+
+$('.new_product').remove();
+$('#new_product_link').after('<%= j render("form") %>');
+
+<% end %>
