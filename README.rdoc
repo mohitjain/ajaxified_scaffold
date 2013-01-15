@@ -14,5 +14,7 @@ This is a sample app showing remote => true functionality is basic scaffold. Cre
 == See a live demo or blog post
 4. More information about this application can be found at:
 link:http://www.codebeerstartups.com/ajaxify-your-site-with-remote-true/
+and here
+link:http://www.codebeerstartups.com/2013/01/adding-validations-in-your-ajax-based-controllers-ajaxify-your-site/
 5. Online Demo can be found at: 
 link:http://ajaxified-scaffold.herokuapp.com/
